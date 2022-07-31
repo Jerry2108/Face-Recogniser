@@ -31,10 +31,13 @@ More information about the algorithm can be found here: https://towardsdatascien
 
 # # Sample test case:
 
-1. Given this image: 
+1. Given this image (this person is wearing glasses): 
 
 ![subject01 glasses](https://user-images.githubusercontent.com/80389972/182026724-2a0b9e21-2307-4a17-b8d6-a1c3dbc26688.gif)
 
-2. The model can p
+2. After being trained, the model can predict the same person: 
+
+![subject01](https://user-images.githubusercontent.com/80389972/182026890-59dafd29-8617-444a-bf5d-0ed7dcb004da.gif)
+
 
 
