@@ -1,7 +1,12 @@
 # Face-Recogniser
 # Introduction
 1. This is a deep learning project using LBPH classification provided by the openCV library of python to recognize image.
-2. <b>LBPH classification</b>
+# Installation
+Please install these packages if running the file on the local environment: 
+1. pip install opencv-python
+2. pip install numpy
+3. pip install Pillow
+# LBPH classification
 LBPH uses 4 parameters:
 - Radius: the radius is used to build the circular local binary pattern and represents the radius around the central pixel. It is usually set to 1.
 - Neighbors: the number of sample points to build the circular local binary pattern. Keep in mind: the more sample points you include, the higher the computational cost. It is usually set to 8.
